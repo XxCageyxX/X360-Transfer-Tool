@@ -1,0 +1,5 @@
+{
+  "name": "X360 Transfer Tool",
+  "description": "A utility to download, extract, and FTP files to an Xbox 360 console.",
+  "requestFramePermissions": []
+}
